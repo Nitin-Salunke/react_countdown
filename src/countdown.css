@@ -1,0 +1,24 @@
+@import url(//db.onlinewebfonts.com/c/c8a9c5064d8faa5e7acdecfeee4e9075?family=digital+display+tfb);
+
+.countdownContainer {
+  display: flex;
+  background-color: #268ECD;
+  color: #ffffff;
+  max-width: 340px;
+  border-radius: 5px;
+  float: right;
+}
+
+.countdownElement {
+  text-align: center;
+}
+
+.countdownDigits {
+  font-size: xxx-large;
+  margin: 5px;
+  font-family: 'digital display tfb';
+}
+
+.countdownText {
+  margin: 0px 0px 10px 0px;
+}
